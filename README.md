@@ -12,7 +12,7 @@ react-native run-ios
 
 
 ## Note 
-that I developed this using ** only ** ios simulator. I have no clue what it is going to look like and how it is going to work with android version. 
+that I developed this using **only** ios simulator. I have no clue what it is going to look like and how it is going to work with android version. 
 
 To get backend running, cd into backend folder and then: 
 ```
