@@ -25,6 +25,8 @@ you should have the backend running
 
 TODO: 
 * Backend to heroku or equivalent so one could really use this while shopping :D
-* Building Frontend to IOS (preferably without App Store, too expensive for student) how?
+* Make it scalable. Some friends wants this too now. 
+* Since Apple is taking 100$ per year for publishing to app store, thus should make it PWA( and landing page maybe ) to avoid those expenses.
+* Database. NoSQL or SQL? Currently, it would just save the groceries to servers memory since it's just a proof-of-consept
 
 ![](Example.gif)
