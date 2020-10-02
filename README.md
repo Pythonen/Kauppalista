@@ -26,3 +26,5 @@ you should have the backend running
 TODO: 
 * Backend to heroku or equivalent so one could really use this while shopping :D
 * Building Frontend to IOS (preferably without App Store, too expensive for student) how?
+
+![](Example.gif)
