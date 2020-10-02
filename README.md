@@ -29,4 +29,6 @@ TODO:
 * Since Apple is taking 100$ per year for publishing to app store, thus should make it PWA( and landing page maybe ) to avoid those expenses.
 * Database. NoSQL or SQL? Currently, it would just save the groceries to servers memory since it's just a proof-of-consept
 
+## Demonstration
+Frontend on the left side and flask/socketio server on the right side.
 ![](Example.gif)
